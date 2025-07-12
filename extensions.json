@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "github.remotehub",
+        "ms-vscode.remote-repositories",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "ms-vscode.cmake-tools",
+        "ms-dynamics-smb.al",
+        "github.copilot-chat",
+        "ms-azuretools.vscode-containers",
+        "ms-python.vscode-python-envs",
+        "github.copilot"
+    ]
+}

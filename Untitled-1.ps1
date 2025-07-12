@@ -1,0 +1,1 @@
+https://m365.cloud.microsoft/apps?auth=1&home=1&origindomain=microsoft365
